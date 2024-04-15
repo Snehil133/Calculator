@@ -12,10 +12,6 @@
         color:navy
       }
 
-      body{
-        overflow: hidden;
-      }
-
       #calculator {
         height: 450px;
         width: 400px;
