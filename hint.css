@@ -1,0 +1,18 @@
+body{
+    background-image: url(./IMG20220409233719.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+ul li{
+    list-style-type:none;
+    padding: 1rem;
+    font-size:1.5rem;
+    color:#3d05f5;
+}
+
+#hint{
+    text-align: center;
+    padding: 5rem;
+}
